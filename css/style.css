@@ -18,7 +18,10 @@
     }
     }
     
-   
+#top_part{
+    position: fixed;
+    
+}   
 
 .logo_part img{
     max-width: 50%;    
