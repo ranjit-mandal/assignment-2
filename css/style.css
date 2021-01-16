@@ -1,6 +1,24 @@
 .header_part{
     background-color: #FFFBF0;
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; */
+    margin: 0 auto;
 }
+@media(max-width: 760px){
+    
+    #contact_us{
+        flex-direction: column;
+    }
+    #winter_star{
+        flex-direction: column;
+    }
+    #top_part{
+        flex-direction: column;
+    }
+    }
+    
+   
 
 .logo_part img{
     max-width: 50%;    
